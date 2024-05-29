@@ -1,4 +1,4 @@
-# Electronic Access Control System - README
+# Password Operated Device Control
 
 ## Project Description
 
