@@ -69,3 +69,13 @@ The provided C code for the AT89C51 microcontroller implements the following fun
 ## .pdsprj File
 
 The `.pdsprj` file is the project file used by the IDE (Integrated Development Environment) to manage the project settings and source files. Ensure that the project file includes the main C source file and any necessary library files. If you encounter issues with the project file, make sure it points to the correct paths for the source code and header files.
+
+## License
+
+This project is licensed under the MIT License. 
+
+## Code of Conduct
+
+We expect all project participants to adhere to the Contributor Covenant. Please read the full text so that you can understand what actions will and will not be tolerated.
+
+---
